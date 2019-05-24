@@ -10,6 +10,6 @@
 <hr><br>
 <h1>Login Success!</h1><br>
 <font color="green">Welcome!</font>
-<a href="homepage.jsp" class="w3-button w3-dark-grey">Go to homepage</a>
+<a href="index.html" class="w3-button w3-dark-grey">Go to homepage</a>
 </body>
 </html>
